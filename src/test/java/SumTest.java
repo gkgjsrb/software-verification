@@ -19,12 +19,12 @@ public class SumTest {
 
     @Test
     public void sum() {
-        assertEquals(this.sum.sum(3, 5), 2);
+        assertEquals(this.sum.sum(3, 5), 8);
     }
 
     @Test
     public void min() {
-        assertEquals(this.sum.min(5, 3), 2);
+        assertEquals(this.sum.min(5, 3), 1);
     }
 
     @Test
