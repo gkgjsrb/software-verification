@@ -20,6 +20,5 @@ public class Sum {
     public static void main(String[] args) {
         Sum sum = new Sum();
 	int a = sum.sum(3, 4);
-	System.out.println(a);
     }
 }
