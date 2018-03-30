@@ -9,7 +9,7 @@ public class Sum {
     }
 
     public int mul(int mul1, int mul2) {
-        return mul1 - mul2;
+        return mul1 * mul2;
     }
 
     public int div(int div1, int div2) {

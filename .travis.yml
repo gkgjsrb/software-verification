@@ -4,3 +4,4 @@ before_install:
   - chmod +x gradlew
 
 script: "gradle clean build"
+
