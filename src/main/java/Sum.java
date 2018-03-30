@@ -21,6 +21,7 @@ public class Sum {
         Sum sum2 = new Sum();
         Sum sum = new Sum();
 	int a = sum.sum(3, 4);
+	int b = sum.sum2(3, 4);
 
     }
 }
